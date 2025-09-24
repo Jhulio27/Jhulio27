@@ -53,6 +53,8 @@ Graças a essa bolsa, estou me especializando em **Front-End** e aplicando os co
     src="https://github-readme-stats.vercel.app/api?username=Jhulio27&show_icons=true&theme=tokyonight&include_all_commits=true&locale-pt-br" 
   />
 </p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhulio27/Jhulio27/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhulio27/Jhulio27/output/pacman-contribution-graph.svg">
