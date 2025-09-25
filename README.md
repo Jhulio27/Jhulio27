@@ -42,7 +42,7 @@ Graças a essa bolsa, estou me especializando em **Front-End** e aplicando os co
     title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/React/React-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/React/React-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
 />
 <br/>
 <br/>
